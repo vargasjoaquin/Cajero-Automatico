@@ -2,8 +2,11 @@
 Escriba un programa para mostrar al usuario las funciones de un cajero automatico:
 
 S- Consultar Saldo Actual
+
 R- Retirar Dinero (validar saldo disponible)
+
 I- Ingresar Dinero 
+
 Q- Terminar
 
 Segun la opcion de menu seleccionada por el usuario debe implementar la funcionalidad correspondiente. 
